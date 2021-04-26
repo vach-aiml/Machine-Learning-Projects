@@ -93,3 +93,22 @@ class: 'Abnormal', 'Normal'
 The purpose of the case study is to classify a given silhouette as one of three different types of vehicle, using a set of features extracted from the silhouette. Four "Corgie" model vehicles were used for the experiment: a double-decker bus, Chevrolet van, Saab 9000 and an Opel Manta 400 cars. This particular combination of vehicles was chosen with the expectation that the bus, van and either one of the cars would be readily distinguishable, but it would be more difficult to distinguish between the cars.
 
 Using PCA from scikit learn and elbow plot to find out a reduced number of dimensions and Support vector machines with grid search to find out the best hyperparameters and cross-validation to find the accuracy.
+
+_Attribute Information:_
+
+NUMBER OF CLASSES
+
+Total no. = 946
+
+No. in each class:
+
+Opel 240
+
+Saab 240
+
+Bus  240
+
+Van  226
+
+NUMBER OF ATTRIBUTES = 18
+
