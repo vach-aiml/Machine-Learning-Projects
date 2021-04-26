@@ -10,12 +10,18 @@ The data at hand contains medical costs of people characterized by certain attri
 
 *Attribute Information:*
 
-age : age of primary beneficiary
+age : age of primary beneficiary                                                                                                                                                                                              
+
 sex : insurance contractor gender, female, male
+
 bmi : Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m ^ 2) using  the ratio of height to weight, ideally 18.5 to 24.9
+
 children : Number of children covered by health insurance/Number of dependents
+
 smoker : Smoking
+
 region : the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
+
 charges : Individual medical costs billed by health insurance.
 
 **Project-2: Supervised Learning_Project_Thera Bank**
@@ -29,19 +35,33 @@ Data of 5000 customers include customer demographic information (age, income, et
 _Attribute Information:_
 
 ID: Customer ID	
+
 Age: Customer's age in completed years
+
 Experience: #years of professional experience
+
 Income	Annual: Income of the customer ($000)
+
 ZIPCode: Home Address ZIP code.
+
 Family: Family size of the customer
+
 CCAvg: Avg. spending on credit cards per month ($000)
+
 Education: Education Level. 1: Undergrad; 2: Graduate; 3: Advanced/Professional
+
 Mortgage: Value of house mortgage if any. ($000)
+
 Personal Loan: Did this customer accept the personal loan offered in the last campaign?
+
 Securities Account: Does the customer have a securities account with the bank?
+
 CD Account: Does the customer have a certificate of deposit (CD) account with the bank?
+
 Online: Does the customer use internet banking facilities?
+
 CreditCard: Does the customer use a credit card issued by UniversalBank?
+
 
 **Project-3: Supervised Learning_Project_Patient type_Classifier**
 
@@ -52,13 +72,21 @@ A KNN classifier is used and tuned for best performance.
 _Attribute Information:_
 
 Each patient is represented in the data set by six biomechanical attributes derived from the shape and orientation of the pelvis and lumbar spine (each one is a column):
+
 pelvic incidence
+
 pelvic tilt
+
 lumbar lordosis angle
+
 sacral slope
+
 pelvic radius
+
 grade of spondylolisthesis
+
 class: 'Abnormal', 'Normal'
+
 
 **Project-4: Unsupervised Learning_Project_PCA**
 
