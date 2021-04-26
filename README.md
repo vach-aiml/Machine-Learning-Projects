@@ -98,7 +98,7 @@ _Attribute Information:_
 
 NUMBER OF CLASSES
 
-Total no. = 946
+Total no. of datapoints= 946
 
 No. in each class:
 
